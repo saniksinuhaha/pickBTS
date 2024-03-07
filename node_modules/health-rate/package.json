@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "guess-ideology": "^1.5.1",
+    "guess-iq": "^1.2.2",
+    "guess-pets": "^1.2.1",
+    "guess-smartphone": "^1.2.3",
+    "guess-zodiac": "^1.5.15",
+    "lucky-rate": "^1.2.2"
+  },
+  "name": "health-rate",
+  "description": "This is a simple npm package that calculates a health rate based on random data. 🎲",
+  "version": "1.2.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/setdwi/healthrate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setdwi/healthrate/issues"
+  },
+  "homepage": "https://github.com/setdwi/healthrate#readme"
+}

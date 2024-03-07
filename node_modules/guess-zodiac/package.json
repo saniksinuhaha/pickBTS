@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "guess-ideology": "^1.5.1",
+    "guess-iq": "^1.2.2",
+    "guess-smartphone": "^1.2.3",
+    "random-color-selector": "^1.1.2",
+    "random-drink-selector": "^1.1.2",
+    "random-food-selector": "^1.1.2",
+    "random-hobby-selector": "^1.5.3",
+    "random-job-selector": "^1.2.3",
+    "random-religion-selector": "^1.22.2"
+  },
+  "name": "guess-zodiac",
+  "version": "1.5.15",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sitamaroniyoi/guess-zodiac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitamaroniyoi/guess-zodiac/issues"
+  },
+  "homepage": "https://github.com/sitamaroniyoi/guess-zodiac#readme",
+  "description": ""
+}

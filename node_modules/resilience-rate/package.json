@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "creativity-rate": "^1.5.2",
+    "guess-ideology": "^1.5.1",
+    "guess-iq": "^1.2.2",
+    "guess-pets": "^1.2.1",
+    "guess-smartphone": "^1.2.3",
+    "guess-zodiac": "^1.5.15",
+    "health-rate": "^1.2.1",
+    "innovation-rate": "^1.5.1",
+    "lucky-rate": "^1.2.2"
+  },
+  "name": "resilience-rate",
+  "description": "Welcome to the Resilience Rate Project! This project uses a variety of data to calculate a resilience rate. 🚀",
+  "version": "1.2.2",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kukangnambro00/resilince-rate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kukangnambro00/resilince-rate/issues"
+  },
+  "homepage": "https://github.com/kukangnambro00/resilince-rate#readme"
+}

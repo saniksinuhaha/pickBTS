@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "guess-smartphone": "^1.2.3",
+    "random-color-selector": "^1.1.2",
+    "random-drink-selector": "^1.1.2",
+    "random-food-selector": "^1.1.2",
+    "random-hobby-selector": "^1.5.3",
+    "random-job-selector": "^1.2.3",
+    "random-religion-selector": "^1.22.2"
+  },
+  "name": "guess-iq",
+  "description": "This is a simple npm package that guesses an IQ based on random data.",
+  "version": "1.2.2",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annisabalilaqute/guess-IQ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annisabalilaqute/guess-IQ/issues"
+  },
+  "homepage": "https://github.com/annisabalilaqute/guess-IQ#readme"
+}

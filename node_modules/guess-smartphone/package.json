@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "random-color-selector": "^1.1.2",
+    "random-drink-selector": "^1.1.2",
+    "random-food-selector": "^1.1.2",
+    "random-hobby-selector": "^1.5.3",
+    "random-job-selector": "^1.2.3",
+    "random-religion-selector": "^1.22.2"
+  },
+  "name": "guess-smartphone",
+  "version": "1.2.3",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/setidane666/guess-smartphone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setidane666/guess-smartphone/issues"
+  },
+  "homepage": "https://github.com/setidane666/guess-smartphone#readme",
+  "description": ""
+}
